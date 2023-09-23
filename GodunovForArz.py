@@ -215,7 +215,7 @@ def testRiemannCases():
     _ = main(startwerte = createRiemannProblem(rho_links = 0.6, v_links   = 0.6, rho_rechts =  0.8, v_rechts   = 0.7), title = "Case 1.1")
     _ = main(startwerte = createRiemannProblem(rho_links = 0.8, v_links   = 0.7, rho_rechts =  0.6, v_rechts   = 0.6), title = "Case 1.2")
     _ = main(startwerte = createRiemannProblem(rho_links = 0.7, v_links   = 0.7, rho_rechts =  0.2, v_rechts   = 0.2), title = "Case 3")
-    _ = main(startwerte = createRiemannProblem(rho_links = 0.2, v_links   = 0.2, rho_rechts =  0.7, v_rechts   = 0.7), title = "Case 2")
+    _ = main(startwerte = createRiemannProblem(rho_links = 0.3, v_links   = 0.3, rho_rechts =  0.8, v_rechts   = 0.7), title = "Case 2")
 
 if __name__ == '__main__':
     testRiemannCases()
