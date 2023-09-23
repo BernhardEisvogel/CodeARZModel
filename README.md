@@ -1,3 +1,4 @@
 # CodeARZModel
 Additional Code for my bachelor thesis about the ARZ and the LWR-Model
-![Image](Case 1.1GodunovSim.png)
+
+![Image](https://github.com/BernhardEisvogel/CodeARZModel/blob/main/Visualisierung%20des%20RiemannproblemsARZSIM.png)
